@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <GeneralSettingsData TaskExecutionCondition="1000" ExecutionPriority="4" CycleTimeOverDetection="Warning" TimeOutValue="5000" VariableAccessTimeRatio="3">
+    <ExecutionConditionVariable VariableName="" Condition="" Constant="" />
+    <ExecutionConditionCJUnit ExternalInputUnit="">
+      <ExecutionConditionInterruptionUnit UnitNumber="" InputContact="" EdgeDetection="" />
+      <ExecutionConditionSiouCpuUnit CJUnitTaskNo="" />
+    </ExecutionConditionCJUnit>
+  </GeneralSettingsData>
+  <Programs>
+    <AssociatedProgramData ProgramName="Program0" InstanceName="Program0" IniFileTrackingId="704b2b5d704749df8d8b9ee5b8b86011" StartupSetting="TRUE" SequenceNumber="1" IsDebugProgram="false" />
+  </Programs>
+  <RefreshUnitIds />
+  <TaskInterfaceVariables version="1" />
+</data>

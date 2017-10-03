@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PC21ConfigurationDataProxy>
+  <Header>
+    <Name>Omron.Cxap.Modules.NexPC21Configuration.EntityDataProxy.PC21ParameterSettingsPrintDataProxy</Name>
+    <CreateDateTime>Tue, 03 Oct 2017 04:42:10 GMT</CreateDateTime>
+    <Version>1.00</Version>
+  </Header>
+  <Data>
+    <EntityContextId>e23ff187-c6f8-4e45-afd0-3d8160799e6e</EntityContextId>
+    <TrackingId>0559bd02-0092-4b7f-82ce-bc78f4bf0199</TrackingId>
+    <SubstanceEntityId>54b78450-393a-4e7f-aadf-4e1167ecbb2b</SubstanceEntityId>
+    <SubstanceTrackingId>42bcb84f-232b-4888-9e75-7d527ef10f2f</SubstanceTrackingId>
+  </Data>
+  <ClassInfo>
+    <Type>NexPC21Configuration</Type>
+    <SubType>PC21ParameterSettingsPrintDataProxy</SubType>
+  </ClassInfo>
+</PC21ConfigurationDataProxy>
